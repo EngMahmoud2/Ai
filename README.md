@@ -28,18 +28,10 @@ https://releases.ubuntu.com/20.04/
 
 
 ![image](https://github.com/user-attachments/assets/07a6c53b-391a-496d-b505-eca1ab3e07d0)
-
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/e68fd009-b3eb-46b1-bb0f-0a4dca592f19)
 
-
-
-
+##5- -Choose the virtual machine and click (Settings)
+From global (advanced) to (bi-directional) changing, this will allow you to transfer files from your platform to your device's default system and vice versa.
 
 ![image](https://github.com/user-attachments/assets/1cea7d20-855f-4bd1-9107-0d3369c6e3ee)
 
@@ -55,7 +47,7 @@ https://releases.ubuntu.com/20.04/
 
 
 
-
+END
 ![image](https://github.com/user-attachments/assets/088905ed-6b2d-48a4-956c-dafb6083cf67)
 
 
