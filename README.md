@@ -65,9 +65,10 @@ then click Start
 
 9-   Install ROS-Noetic on Ubuntu 20.04
 
+![image](https://github.com/user-attachments/assets/c5907a70-578b-4669-91f3-6fc530980c6a)
+
 Write in search (terminal)
 follow the instructions here https://wiki.ros.org/noetic/Installation/Ubuntu#Installation-1 (copy and paste)
-
 
 
 
