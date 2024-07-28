@@ -24,22 +24,7 @@ https://releases.ubuntu.com/20.04/
 ![image](https://github.com/user-attachments/assets/0b4192b4-ab92-42eb-9d9a-acd0dc70cb39)
 
 
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/ea3762be-0ce3-4150-b8a7-1265d973954e)
-
-
-
-
-
-
-
+##4- You should adjust the settings according to your device.
 
 
 ![image](https://github.com/user-attachments/assets/07a6c53b-391a-496d-b505-eca1ab3e07d0)
